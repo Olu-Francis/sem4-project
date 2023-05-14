@@ -14,7 +14,7 @@ body {
 
 /* Add styles for the header */
 header {
-    background-image: url(/images/feedback.jpg);
+    background-image: url(images/feedback.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 900px;
