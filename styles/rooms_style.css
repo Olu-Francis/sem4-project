@@ -13,7 +13,7 @@ body {
 
 /* Add styles for the header */
 header {
-    background-image: url(/images/family-room.jpg);
+    background-image: url(images/family-room.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 900px;
